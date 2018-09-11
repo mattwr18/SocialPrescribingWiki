@@ -31,3 +31,5 @@ possible problems
 > AADSTS50020: User account 'sam@agileventures.org' from identity provider 'live.com' does not exist in tenant 'Default Directory' and cannot access the application 'a9932f31-f5ee-486a-8563-c76331b1945f' in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account.
 
 ![](https://dl.dropbox.com/s/cll9a4wvqi7yxog/Screenshot%202018-09-11%2013.15.18.png?dl=0)
+
+![](https://dl.dropbox.com/s/flwoyc3qs7gsw6c/Screenshot%20at%202018-09-11%2012%3A39%3A16.png?dl=0)
